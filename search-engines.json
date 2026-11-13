@@ -160,5 +160,17 @@
     "name": "OpenRouter models",
     "url": "https://openrouter.ai/models?q={searchTerms}",
     "active": true
+  },
+  {
+    "keyword": "npm",
+    "name": "npm packages",
+    "url": "https://www.npmjs.com/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "gist",
+    "name": "GitHub Gists",
+    "url": "https://gist.github.com/search?q={searchTerms}",
+    "active": true
   }
 ]
