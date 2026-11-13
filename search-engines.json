@@ -114,7 +114,7 @@
     "active": true
   },
   {
-    "keyword": "myweirdprompts.com",
+    "keyword": "mwp",
     "name": "My Weird Prompts",
     "url": "https://myweirdprompts.com/search?q={searchTerms}",
     "active": true
