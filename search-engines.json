@@ -1,0 +1,158 @@
+[
+  {
+    "keyword": "ali",
+    "name": "AliExpress",
+    "url": "https://www.aliexpress.com/wholesale?SearchText={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "booking",
+    "name": "Booking.com",
+    "url": "https://www.booking.com/searchresults.en-gb.html?si=ai%2Cco%2Cci%2Cre%2Cdi;ss={searchTerms};label=opensearch-plugin",
+    "active": false
+  },
+  {
+    "keyword": "gh",
+    "name": "GitHub",
+    "url": "https://github.com/search?q={searchTerms}&ref=opensearch",
+    "active": true
+  },
+  {
+    "keyword": "hf",
+    "name": "Hugging Face (full-text)",
+    "url": "https://huggingface.co/search/full-text?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "hfdataset",
+    "name": "Hugging Face datasets",
+    "url": "https://huggingface.co/datasets?search={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "hfmodel",
+    "name": "Hugging Face models",
+    "url": "https://huggingface.co/models?search={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "ivory",
+    "name": "Ivory",
+    "url": "https://www.ivory.co.il/catalog.php?act=cat&q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "ksp",
+    "name": "ksp.co.il",
+    "url": "https://ksp.co.il/?txt_search={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "translate",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/?source=osdd#auto|auto|{searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "twitter.com",
+    "name": "Twitter",
+    "url": "https://twitter.com/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "yt",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "amazon.com",
+    "name": "amazon.com",
+    "url": "https://www.amazon.com/s?k={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "console.hetzner.com",
+    "name": "Hetzner Cloud",
+    "url": "https://console.hetzner.cloud/?s={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "drive.google.com",
+    "name": "Google Drive",
+    "url": "https://drive.google.com/drive/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "exa.ai",
+    "name": "Exa",
+    "url": "https://exa.ai/search?s={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "gitlab.com",
+    "name": "GitLab",
+    "url": "https://gitlab.com/search?search={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "grainger.com",
+    "name": "grainger.com",
+    "url": "https://www.grainger.com/search?searchQuery={searchTerms}&searchBar=true",
+    "active": true
+  },
+  {
+    "keyword": "ledico-store.com",
+    "name": "ledico-store.com",
+    "url": "https://www.ledico-store.com/search/?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "maps.google.com",
+    "name": "Google Maps",
+    "url": "https://www.google.com/maps/search/{searchTerms}?hl=en&source=opensearch",
+    "active": true
+  },
+  {
+    "keyword": "myweirdprompts.com",
+    "name": "My Weird Prompts",
+    "url": "https://myweirdprompts.com/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "pexels.com",
+    "name": "Pexels",
+    "url": "https://www.pexels.com/search/{searchTerms}/",
+    "active": true
+  },
+  {
+    "keyword": "platform.claude.com",
+    "name": "Claude Platform Docs",
+    "url": "https://platform.claude.com/docs?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "pro.x.com",
+    "name": "X",
+    "url": "https://x.com/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "x.com",
+    "name": "X",
+    "url": "https://x.com/search?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "z.ai",
+    "name": "Z",
+    "url": "https://chat.z.ai/?q={searchTerms}",
+    "active": true
+  },
+  {
+    "keyword": "zap.co.il",
+    "name": "זאפ השוואת מחירים",
+    "url": "https://www.zap.co.il/search.aspx?keyword={searchTerms}",
+    "active": true
+  }
+]
