@@ -154,5 +154,11 @@
     "name": "זאפ השוואת מחירים",
     "url": "https://www.zap.co.il/search.aspx?keyword={searchTerms}",
     "active": true
+  },
+  {
+    "keyword": "or",
+    "name": "OpenRouter models",
+    "url": "https://openrouter.ai/models?q={searchTerms}",
+    "active": true
   }
 ]
